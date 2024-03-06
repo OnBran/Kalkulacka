@@ -1,0 +1,10 @@
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe.config
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.pdb
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.csproj.AssemblyReference.cache
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.Kalkulačka.resources
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.Properties.Resources.resources
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.csproj.GenerateResource.cache
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.exe
+C:\Users\brandejsondrej\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.pdb
